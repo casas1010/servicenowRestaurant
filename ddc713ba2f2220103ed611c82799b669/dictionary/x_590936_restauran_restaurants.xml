@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Restaurants" max_length="40" name="x_590936_restauran_restaurants" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Hours" max_length="40" name="hours" type="string"/>
+        <element label="Lattitude" max_length="40" name="lattitude" type="string"/>
+        <element label="Longitude" max_length="40" name="longitude" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="string"/>
+        <element label="Website" max_length="40" name="website" type="string"/>
+    </element>
+</database>
